@@ -39,17 +39,14 @@
 }
 
 .Developer{
+    
     margin: 8rem;
-   width: 400px;
-   margin-left: auto;
-   margin-right: auto;
-   text-align: center;
-
+    margin: 0px auto 0 auto;
+   
 }
 .gym{ 
-   margin: 6rem;
-    text-align: center;
-    margin: none;
+    margin: 8rem;
+    margin: 0px auto 0 auto;
 
 }
 .rat-image{
